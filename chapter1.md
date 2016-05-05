@@ -10,8 +10,8 @@ attachments :
 *** =video_link
 //player.vimeo.com/video/154783078
 
---- type:MultipleChoiceExercise lang:r xp:50 skills:1 key:d6c7838d6419b783aec4bb11e8c483359a8b0347
-## A really bad movie
+--- type:MultipleChoiceExercise lang:r xp:50 skills:1 key:d6c783d6419b783aec4bb11e8c483359a8b0347
+## A really bad movi
 
 Have a look at the plot that showed up in the viewer to the right. Which type of movie has the worst rating assigned to it?
 
